@@ -1,7 +1,7 @@
 # Portfolio
 This is my portfolio website
 
-[View the website here](https://vasugupta.000webhostapp.com/)
+Vist the website at : [https://vasugupta.github.io/](https://vasugupta.github.io/)
 
 # Screenshots
 ![Image](Screenshots/ss1.png)
