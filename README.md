@@ -1,7 +1,7 @@
 # Portfolio
 This is my portfolio website
 
-Vist the website at : [https://vasugupta.github.io/](https://vasugupta.github.io/)
+Vist the website at : [https://vasu7052.github.io/](https://vasu7052.github.io/)
 
 # Screenshots
 ![Image](Screenshots/ss1.png)
